@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Examen1/static/css/main.9c0ffc8d.chunk.css",
-    "main.js": "/Examen1/static/js/main.bb602a25.chunk.js",
-    "main.js.map": "/Examen1/static/js/main.bb602a25.chunk.js.map",
-    "runtime-main.js": "/Examen1/static/js/runtime-main.d4c06a89.js",
-    "runtime-main.js.map": "/Examen1/static/js/runtime-main.d4c06a89.js.map",
+    "main.css": "/Examen1/static/css/main.70794f0d.chunk.css",
+    "main.js": "/Examen1/static/js/main.d30f92d8.chunk.js",
+    "main.js.map": "/Examen1/static/js/main.d30f92d8.chunk.js.map",
+    "runtime-main.js": "/Examen1/static/js/runtime-main.83a75853.js",
+    "runtime-main.js.map": "/Examen1/static/js/runtime-main.83a75853.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Examen1/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.ef6c62a4.chunk.js": "/Examen1/static/js/2.ef6c62a4.chunk.js",
-    "static/js/2.ef6c62a4.chunk.js.map": "/Examen1/static/js/2.ef6c62a4.chunk.js.map",
-    "static/js/3.a002cbd5.chunk.js": "/Examen1/static/js/3.a002cbd5.chunk.js",
-    "static/js/3.a002cbd5.chunk.js.map": "/Examen1/static/js/3.a002cbd5.chunk.js.map",
+    "static/js/2.3016de2a.chunk.js": "/Examen1/static/js/2.3016de2a.chunk.js",
+    "static/js/2.3016de2a.chunk.js.map": "/Examen1/static/js/2.3016de2a.chunk.js.map",
+    "static/js/3.b58afa71.chunk.js": "/Examen1/static/js/3.b58afa71.chunk.js",
+    "static/js/3.b58afa71.chunk.js.map": "/Examen1/static/js/3.b58afa71.chunk.js.map",
     "index.html": "/Examen1/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/Examen1/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.9c0ffc8d.chunk.css.map": "/Examen1/static/css/main.9c0ffc8d.chunk.css.map",
-    "static/js/2.ef6c62a4.chunk.js.LICENSE.txt": "/Examen1/static/js/2.ef6c62a4.chunk.js.LICENSE.txt",
+    "static/css/main.70794f0d.chunk.css.map": "/Examen1/static/css/main.70794f0d.chunk.css.map",
+    "static/js/2.3016de2a.chunk.js.LICENSE.txt": "/Examen1/static/js/2.3016de2a.chunk.js.LICENSE.txt",
     "static/media/cinelo.ce3f6374.jpg": "/Examen1/static/media/cinelo.ce3f6374.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4c06a89.js",
+    "static/js/runtime-main.83a75853.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.ef6c62a4.chunk.js",
-    "static/css/main.9c0ffc8d.chunk.css",
-    "static/js/main.bb602a25.chunk.js"
+    "static/js/2.3016de2a.chunk.js",
+    "static/css/main.70794f0d.chunk.css",
+    "static/js/main.d30f92d8.chunk.js"
   ]
 }
